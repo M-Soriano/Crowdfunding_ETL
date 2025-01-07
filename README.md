@@ -8,4 +8,4 @@ ERD.png depicting the schema for the database.
 
 ETL_Mini_Project_KOseiassibey_MSoriano.ipynb is the jupyter notebook that contains the code to analyze the project.
 
-Crowdfunding_db_schema.sql containing code for the schema relationships.
+Crowdfunding_db_schema.sql containing code for the schema relationships for the database.
