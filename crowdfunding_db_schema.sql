@@ -1,6 +1,8 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+﻿-- This file create by QuickDBD and modifidy by Miguel Soriano to be funtional.
+
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
--- Added to modificaton in postgres for campaign table other work fine.
+-- Added modificaton in campaign table creation in order to run in mostgres.
 
 CREATE TABLE "campaign" (
     "cf_id" INTEGER   NOT NULL,
