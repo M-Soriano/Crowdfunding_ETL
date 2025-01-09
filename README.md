@@ -5,7 +5,7 @@
 ### This crowdfunding_ETL repository is a project executed by Miguel Soriano and Kelvin Osei Assibey.
 ---
 
-This repository contains a resource folder, ERD.png, ETL_Mini_Project_KOseiassibey_MSoriano.ipynb and crowdfunding_db_schema.sql.
+This repository contains a resource folder, ERD.png, ETL_Mini_Project_KOseiassibey_MSoriano.ipynb(With regex option to create the contacts Daframe) and crowdfunding_db_schema.sql.
 
 ---
 
@@ -34,6 +34,13 @@ Resource folder contains the following exported files:
 - category.csv
 - contacts.csv
 - subcategory.csv
+
+-It also was:
+
+    copy of ETL_Mini_Project_KOseiassibey_MSoriano (with both option th create contacts Daframe).
+    Readme_resouces folder
+    The xlsx files from the starter code
+
 
 ---
 
