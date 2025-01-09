@@ -22,7 +22,7 @@ DataFrames Created
 -
 ![campaign_df](Resources/Readme_resources/campaign_df.png)
 
--
+- From the panda creation file, still the same out put for the regex creation file
 ![contacts_df](Resources/Readme_resources/contacts_df.png)
 
 
