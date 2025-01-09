@@ -54,7 +54,7 @@ ERD.png depicting the schema for the database.
 ETL_Mini_Project_KOseiassibey_MSoriano.ipynb is the jupyter notebook that contains the code to create the the DataFrames for the csv file in the resources folder.
 
 -----
-Crowdfunding_db_schema.sql containing code for the schema relationships for the database. Crowdfunding_db_schema.sql create with help of the [QuickDBD](quickdatabasediagrams.com), then small modification to properly function.
+Crowdfunding_db_schema.sql containing code for the schema relationships for the database, as well as the query code. Crowdfunding_db_schema.sql create with help of the [QuickDBD](quickdatabasediagrams.com), then small modification to properly function.
 
 Folder Readme_resources in Resources contain screenshot of working schema with imported data.
 
