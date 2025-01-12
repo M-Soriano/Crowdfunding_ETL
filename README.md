@@ -37,10 +37,17 @@ Resource folder contains the following exported files:
 
 -It also was:
 
-    copy of ETL_Mini_Project_KOseiassibey_MSoriano (with both option th create contacts Daframe).
+    The xlsx files from the starter code.
+
     Readme_resouces folder
-    Alternative folder in Resouces folder, was alternative a crowdfunding_db_schema.sql showing a different way of creating schema(just for informational use).
-    The xlsx files from the starter code
+
+    Alternative folder with following files:
+
+     * copy of ETL_Mini_Project_KOseiassibey_MSoriano (with both option the create contacts Daframe).
+     * crowdfunding_db_schema.sql showing a different way of creating schema(just for informational use).
+    
+
+    
 
 
 ---
