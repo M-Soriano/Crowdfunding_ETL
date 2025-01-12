@@ -39,6 +39,7 @@ Resource folder contains the following exported files:
 
     copy of ETL_Mini_Project_KOseiassibey_MSoriano (with both option th create contacts Daframe).
     Readme_resouces folder
+    Alternative folder in Resouces folder, was alternative a crowdfunding_db_schema.sql showing a different way of creating schema(just for informational use).
     The xlsx files from the starter code
 
 
@@ -54,7 +55,7 @@ ERD.png depicting the schema for the database.
 ETL_Mini_Project_KOseiassibey_MSoriano.ipynb is the jupyter notebook that contains the code to create the the DataFrames for the csv file in the resources folder.
 
 -----
-Crowdfunding_db_schema.sql containing code for the schema relationships for the database, as well as the query code. Crowdfunding_db_schema.sql create with help of the [QuickDBD](quickdatabasediagrams.com), then small modification to properly function.
+The primary Crowdfunding_db_schema.sql containing code to create the database and tables show in images below,as well as the query code to verify the tables and data. The imformational alternative schema in Alternative folder in Resources folder, Crowdfunding_db_schema.sql create with help of the [QuickDBD](quickdatabasediagrams.com), then small modification to properly function.
 
 Folder Readme_resources in Resources contain screenshot of working schema with imported data.
 
