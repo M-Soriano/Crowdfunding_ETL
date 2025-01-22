@@ -35,7 +35,7 @@ Resource folder contains the following exported files:
 - contacts.csv
 - subcategory.csv
 
--It also was:
+-It also has:
 
     The xlsx files from the starter code.
 
